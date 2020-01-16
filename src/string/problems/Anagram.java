@@ -25,9 +25,9 @@ String sortedname=new String(ar1);
 String sortedname1=new String(ar2);
 
 if(sortedname.equals(sortedname1)){
-    System.out.println("anagram");
+    System.out.println(name+"   "+name1+"   " +"This is anagram");
 }else {
-    System.out.println("not an anagram");
+    System.out.println(name+"   "+name1+"   " +"This is not anagram");
 }
     }
 }
