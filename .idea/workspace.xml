@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b533036d-9a6c-47ac-a051-580b895fa47b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/UseQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/UseQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/problems/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/problems/Factorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/problems/Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/problems/Anagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/definition/core-java-conceptual-questions" beforeDir="false" afterPath="$PROJECT_DIR$/src/definition/core-java-conceptual-questions" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,10 +186,10 @@
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state x="322" y="73" key="SettingsEditor/0.23.1680.960@0.23.1680.960" timestamp="1579135153013" />
-    <state x="521" y="320" key="com.intellij.ide.util.TipDialog" timestamp="1579156234849">
+    <state x="521" y="320" key="com.intellij.ide.util.TipDialog" timestamp="1579159960809">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
-    <state x="521" y="320" key="com.intellij.ide.util.TipDialog/0.23.1680.956@0.23.1680.956" timestamp="1579156234849" />
+    <state x="521" y="320" key="com.intellij.ide.util.TipDialog/0.23.1680.956@0.23.1680.956" timestamp="1579159960808" />
     <state x="172" y="104" key="refactoring.ChangeSignatureDialog" timestamp="1579152607005">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
