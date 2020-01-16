@@ -5,6 +5,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/problemandsolutions/ArithmeticOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problemandsolutions/ArithmeticOperator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/problemandsolutions/RandomNumberGenerate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problemandsolutions/RandomNumberGenerate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problemandsolutions/SearchElementOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problemandsolutions/SearchElementOfArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,19 +53,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.RandomNumberGenerate">
-    <configuration name="Anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string.problems.Anagram" />
-      <module name="MidTermWeekDaysDecember2019" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="string.problems.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ArithmeticOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="problemandsolutions.ArithmeticOperator" />
       <module name="MidTermWeekDaysDecember2019" />
@@ -104,6 +92,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SearchElementOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problemandsolutions.SearchElementOfArray" />
+      <module name="MidTermWeekDaysDecember2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problemandsolutions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="UseQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="datastructure.UseQueue" />
       <module name="MidTermWeekDaysDecember2019" />
@@ -120,10 +121,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.RandomNumberGenerate" />
+        <item itemvalue="Application.SearchElementOfArray" />
         <item itemvalue="Application.ArithmeticOperator" />
         <item itemvalue="Application.Factorial" />
         <item itemvalue="Application.UseQueue" />
-        <item itemvalue="Application.Anagram" />
       </list>
     </recent_temporary>
   </component>
@@ -167,22 +168,22 @@
       <screen x="0" y="23" width="1680" height="956" />
     </state>
     <state x="533" y="212" key="#com.intellij.ide.util.MemberChooser/0.23.1680.956@0.23.1680.956" timestamp="1579154653619" />
-    <state width="1287" height="251" key="GridCell.Tab.0.bottom" timestamp="1579207718701">
+    <state width="885" height="251" key="GridCell.Tab.0.bottom" timestamp="1579209689978">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
-    <state width="1287" height="251" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1579207718701" />
-    <state width="1287" height="251" key="GridCell.Tab.0.center" timestamp="1579207718701">
+    <state width="885" height="251" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1579209689978" />
+    <state width="885" height="251" key="GridCell.Tab.0.center" timestamp="1579209689977">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
-    <state width="1287" height="251" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1579207718701" />
-    <state width="1287" height="251" key="GridCell.Tab.0.left" timestamp="1579207718700">
+    <state width="885" height="251" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1579209689977" />
+    <state width="885" height="251" key="GridCell.Tab.0.left" timestamp="1579209689977">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
-    <state width="1287" height="251" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1579207718700" />
-    <state width="1287" height="251" key="GridCell.Tab.0.right" timestamp="1579207718701">
+    <state width="885" height="251" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1579209689977" />
+    <state width="885" height="251" key="GridCell.Tab.0.right" timestamp="1579209689977">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
-    <state width="1287" height="251" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1579207718701" />
+    <state width="885" height="251" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1579209689977" />
     <state x="322" y="73" key="SettingsEditor" timestamp="1579135153013">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
