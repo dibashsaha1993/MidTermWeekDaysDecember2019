@@ -10,7 +10,20 @@ public class DuplicateWord {
          */
 
         String st = "Java is a programming Language. Java is also an Island of Indonesia. Java is widely used language";
+        System.out.println(st);
 
+        String characters = "";
+        String duplicates = "";
+
+        for (int i = 0; i < st.length(); i++) {
+            String current = Character.toString(st.charAt(i));
+            if (!duplicates.contains(current)) {
+                duplicates += current + ",";
+            }
+
+            characters += current;
+            System.out.println(duplicates);
+        }
     }
-
 }
+//not done, needs to modify to string//
