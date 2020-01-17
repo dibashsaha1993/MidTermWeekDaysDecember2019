@@ -43,7 +43,7 @@ public class Employee {
         return department;
     }
 
-    public void setDepartment(String department) {
+    public void stDepartment(String department) {
         this.department = department;
     }
 }
