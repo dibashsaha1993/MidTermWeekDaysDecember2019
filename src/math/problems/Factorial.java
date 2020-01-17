@@ -9,7 +9,7 @@ public class Factorial {
          * Write a java program to find Factorial of a given number using Recursion as well as Iteration.
          *
          */
-        System.out.println(recursion(3));
+        System.out.println(recursion(5));
 
 
 
@@ -24,4 +24,4 @@ public class Factorial {
         return n * recursion(n-1);
     }
 }
-//not done yet//
+//not done yet, Iteration missing//
