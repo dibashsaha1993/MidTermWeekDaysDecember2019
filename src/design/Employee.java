@@ -9,10 +9,15 @@ public interface Employee {
 	//and then implement these in a concrete class.
 	
 	//employeeId() will return employee id.
-	public int employeeId();
+	public static int employeeId(){
+		return employeeId();
+	}
+
 	
 	//employeeName() will return employee name
-	public String employeeName();
+	public static String employeeName(){
+		return employeeName();
+	}
 	
 	//assignDepartment() will assign employee to departments
     public void assignDepartment();
