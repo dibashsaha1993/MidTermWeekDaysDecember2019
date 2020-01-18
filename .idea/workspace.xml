@@ -3,11 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b533036d-9a6c-47ac-a051-580b895fa47b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/self-driving-car" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/self-driving-car" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/design/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/problems/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/problems/Factorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/problems/FindLowestDifference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/problems/FindLowestDifference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/problems/FindMissingNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/problems/FindMissingNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructure/UseArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/UseArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/problems/LowestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/problems/LowestNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +51,7 @@
       <recent name="G:\SOFTWARE ENGINEERING\PROJECTS\IdeaProjects\PNT\MidTermWeekDaysDecember2019\lib" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FindLowestDifference">
+  <component name="RunManager" selected="Application.LowestNumber">
     <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="math.problems.Factorial" />
       <module name="MidTermWeekDaysDecember2019" />
@@ -94,8 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MakePyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="math.problems.MakePyramid" />
+    <configuration name="LowestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="math.problems.LowestNumber" />
       <module name="MidTermWeekDaysDecember2019" />
       <extension name="coverage">
         <pattern>
@@ -122,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LowestNumber" />
         <item itemvalue="Application.FindLowestDifference" />
         <item itemvalue="Application.FindMissingNumber" />
         <item itemvalue="Application.Factorial" />
         <item itemvalue="Application.PrimeNumber" />
-        <item itemvalue="Application.MakePyramid" />
       </list>
     </recent_temporary>
   </component>
@@ -170,35 +167,35 @@
       <screen x="0" y="23" width="1680" height="956" />
     </state>
     <state x="533" y="212" key="#com.intellij.ide.util.MemberChooser/0.23.1680.956@0.23.1680.956" timestamp="1579154653619" />
-    <state width="1024" height="180" key="GridCell.Tab.0.bottom" timestamp="1579347380157">
+    <state width="1277" height="180" key="GridCell.Tab.0.bottom" timestamp="1579359306520">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
     <state width="1638" height="208" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1579344758495" />
-    <state width="1024" height="180" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1579347380157" />
+    <state width="1277" height="180" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1579359306520" />
     <state width="1130" height="246" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1579337640337" />
     <state width="1396" height="208" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1579342113549" />
     <state width="885" height="251" key="GridCell.Tab.0.bottom/0.23.1680.961@0.23.1680.961" timestamp="1579219111867" />
-    <state width="1024" height="180" key="GridCell.Tab.0.center" timestamp="1579347380156">
+    <state width="1277" height="180" key="GridCell.Tab.0.center" timestamp="1579359306519">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
     <state width="1638" height="208" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1579344758494" />
-    <state width="1024" height="180" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1579347380156" />
+    <state width="1277" height="180" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1579359306519" />
     <state width="1130" height="246" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1579337640337" />
     <state width="1396" height="208" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1579342113549" />
     <state width="885" height="251" key="GridCell.Tab.0.center/0.23.1680.961@0.23.1680.961" timestamp="1579219111866" />
-    <state width="1024" height="180" key="GridCell.Tab.0.left" timestamp="1579347380156">
+    <state width="1277" height="180" key="GridCell.Tab.0.left" timestamp="1579359306519">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
     <state width="1638" height="208" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1579344758494" />
-    <state width="1024" height="180" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1579347380156" />
+    <state width="1277" height="180" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1579359306519" />
     <state width="1130" height="246" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1579337640336" />
     <state width="1396" height="208" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1579342113548" />
     <state width="885" height="251" key="GridCell.Tab.0.left/0.23.1680.961@0.23.1680.961" timestamp="1579219111865" />
-    <state width="1024" height="180" key="GridCell.Tab.0.right" timestamp="1579347380157">
+    <state width="1277" height="180" key="GridCell.Tab.0.right" timestamp="1579359306519">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
     <state width="1638" height="208" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1579344758495" />
-    <state width="1024" height="180" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1579347380157" />
+    <state width="1277" height="180" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1579359306519" />
     <state width="1130" height="246" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1579337640337" />
     <state width="1396" height="208" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1579342113549" />
     <state width="885" height="251" key="GridCell.Tab.0.right/0.23.1680.961@0.23.1680.961" timestamp="1579219111866" />
@@ -222,11 +219,11 @@
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state x="322" y="73" key="SettingsEditor/0.23.1680.960@0.23.1680.960" timestamp="1579135153013" />
-    <state x="521" y="326" key="com.intellij.ide.util.TipDialog" timestamp="1579338773489">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state x="521" y="320" key="com.intellij.ide.util.TipDialog" timestamp="1579355800409">
+      <screen x="0" y="23" width="1680" height="956" />
     </state>
     <state x="521" y="326" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1579338773489" />
-    <state x="521" y="320" key="com.intellij.ide.util.TipDialog/0.23.1680.956@0.23.1680.956" timestamp="1579334925854" />
+    <state x="521" y="320" key="com.intellij.ide.util.TipDialog/0.23.1680.956@0.23.1680.956" timestamp="1579355800409" />
     <state x="521" y="321" key="com.intellij.ide.util.TipDialog/0.23.1680.958@0.23.1680.958" timestamp="1579241054556" />
     <state x="172" y="104" key="refactoring.ChangeSignatureDialog" timestamp="1579152607005">
       <screen x="0" y="23" width="1680" height="956" />

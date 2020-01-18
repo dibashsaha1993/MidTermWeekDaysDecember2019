@@ -30,8 +30,6 @@ public class UseArrayList {
 		}
 
 
-		// Retrieving data using iterator
-
 		System.out.println("The ArrayList items by using iterator interface:");
 
 		Iterator iterator = ar.iterator();
