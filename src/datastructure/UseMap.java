@@ -1,6 +1,13 @@
 package datastructure;
 
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
 public class UseMap {
+
+
+
 
 	public static void main(String[] args) {
 		/*
@@ -10,6 +17,10 @@ public class UseMap {
 		 *
 		 * Use any databases[MongoDB, Oracle, MySql] to store data and retrieve data.
 		 */
+
+		Map<String, List<String>> ls= new HashMap<>();
+
+
 
 	}
 
