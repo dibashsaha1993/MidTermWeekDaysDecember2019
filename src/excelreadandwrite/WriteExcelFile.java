@@ -17,7 +17,7 @@ public class WriteExcelFile {
  public static void main(String[] args) {
 
 
-  // System.out.println(System.getProperty("user.dir"));
+  //System.out.println(System.getProperty("user.dir"));
   XSSFWorkbook workbook = new XSSFWorkbook();
   XSSFSheet sheet = workbook.createSheet("Datatypes");
 

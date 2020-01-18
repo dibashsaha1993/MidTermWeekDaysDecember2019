@@ -25,8 +25,8 @@ public class MergeTwoArraysAndRemoveDuplicatesProgram {
         int [] ar2={4,5,6,7,8};
         int [] lastAr=duplicate(ar1,ar2);
 
-        System.out.println("first array: "+ Arrays.toString(ar1));
-        System.out.println("second array: "+ Arrays.toString(ar2));
+        //System.out.println("first array: "+ Arrays.toString(ar1));
+        //System.out.println("second array: "+ Arrays.toString(ar2));
         System.out.println("merged and duplicate removed: "+ Arrays.toString(lastAr));
     }
 }

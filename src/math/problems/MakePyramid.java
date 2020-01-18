@@ -16,7 +16,7 @@ public class MakePyramid {
 
         for (int i = 0; i <=6; i++) {
             for (int j = 0; j <i; j++) {
-                System.out.println("*");
+                System.out.print(" * ");
             }
             System.out.println();
 
@@ -24,3 +24,4 @@ public class MakePyramid {
         }
     }
 }
+//done//
