@@ -5,7 +5,7 @@ public class SearchElementOfArray {
     // write a Java program to search for an element of an integer array of 10 elements.
     public static void main(String[] args) throws Exception {
         int[] nums = {10, 20, 30, 40, 50, 60, 70, 80, 90, 100};
-int index=look(nums,20);
+int index=look(nums,40);
 if(index>-1){
     System.out.println("Index found at: "+index);
 }else{

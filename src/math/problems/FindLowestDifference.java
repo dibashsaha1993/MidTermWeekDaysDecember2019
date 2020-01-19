@@ -22,3 +22,5 @@ for(int i=1;i<array1.length;i++){
     }
 
 }
+
+//half done//

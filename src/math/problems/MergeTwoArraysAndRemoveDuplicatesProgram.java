@@ -30,3 +30,5 @@ public class MergeTwoArraysAndRemoveDuplicatesProgram {
         System.out.println("merged and duplicate removed from the given sets of arrays : "+ Arrays.toString(lastAr));
     }
 }
+
+//done//
