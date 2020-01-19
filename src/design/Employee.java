@@ -21,7 +21,8 @@ public interface Employee {
 	
 	//assignDepartment() will assign employee to departments
     public void assignDepartment();
-	
+
+
 	//calculate employee salary
 	public int calculateSalary();
 	
