@@ -9,6 +9,8 @@ import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 
+
+
 public class WriteExcelFile {
 
 
@@ -39,12 +41,10 @@ public class WriteExcelFile {
 
 
   for (Object[] datatype : datatypes) {
-
    Row row = sheet.createRow(rowNum++);
    int colNum = 0;
 
    for (Object field : datatype) {
-
     Cell cell = row.createCell(colNum++);
 
     if (field instanceof String) {
