@@ -14,13 +14,13 @@ public class PrimeNumber {
 		 */
 
 for(int num=2;num<=1000000;num++){
-	int temp=0;
+	int value=0;
 	for(int j=3;j<=num-1;j++) {
 		if (num % j == 0) {
-			temp = temp + 1;
+			value = value + 1;
 		}
 	}
-	if(temp==0) {
+	if(value==0) {
 		System.out.println(num + " : is prime");
 	}else{
 		System.out.println(num+" : not prime");
