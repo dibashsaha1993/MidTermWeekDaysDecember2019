@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b533036d-9a6c-47ac-a051-580b895fa47b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/Numbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/design/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/design/Months.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/Months.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/problems/Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/problems/Anagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/problems/DuplicateWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/problems/DuplicateWord.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,13 +51,39 @@
       <recent name="G:\SOFTWARE ENGINEERING\PROJECTS\IdeaProjects\PNT\MidTermWeekDaysDecember2019\lib" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Numbers">
-    <configuration name="JsonReaderUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="json.parser.JsonReaderUtil" />
+  <component name="RunManager" selected="Application.DuplicateWord">
+    <configuration name="Anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.problems.Anagram" />
       <module name="MidTermWeekDaysDecember2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="json.parser.*" />
+          <option name="PATTERN" value="string.problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DetermineLargestWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.problems.DetermineLargestWord" />
+      <module name="MidTermWeekDaysDecember2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string.problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DuplicateWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.problems.DuplicateWord" />
+      <module name="MidTermWeekDaysDecember2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string.problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,19 +104,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LowestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="math.problems.LowestNumber" />
-      <module name="MidTermWeekDaysDecember2019" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="math.problems.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithm.Numbers" />
       <module name="MidTermWeekDaysDecember2019" />
@@ -106,26 +117,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="math.problems.PrimeNumber" />
-      <module name="MidTermWeekDaysDecember2019" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="math.problems.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DuplicateWord" />
+        <item itemvalue="Application.DetermineLargestWord" />
+        <item itemvalue="Application.Anagram" />
         <item itemvalue="Application.Numbers" />
         <item itemvalue="Application.LearnEnum" />
-        <item itemvalue="Application.JsonReaderUtil" />
-        <item itemvalue="Application.PrimeNumber" />
-        <item itemvalue="Application.LowestNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -169,35 +167,35 @@
       <screen x="0" y="23" width="1680" height="956" />
     </state>
     <state x="533" y="212" key="#com.intellij.ide.util.MemberChooser/0.23.1680.956@0.23.1680.956" timestamp="1579154653619" />
-    <state width="1062" height="152" key="GridCell.Tab.0.bottom" timestamp="1579434032446">
+    <state width="1297" height="152" key="GridCell.Tab.0.bottom" timestamp="1579441314110">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
     <state width="1638" height="179" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1579386893470" />
-    <state width="1062" height="152" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1579434032446" />
+    <state width="1297" height="152" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1579441314110" />
     <state width="1377" height="152" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1579406318389" />
     <state width="1183" height="180" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1579383821200" />
     <state width="885" height="251" key="GridCell.Tab.0.bottom/0.23.1680.961@0.23.1680.961" timestamp="1579219111867" />
-    <state width="1062" height="152" key="GridCell.Tab.0.center" timestamp="1579434032445">
+    <state width="1297" height="152" key="GridCell.Tab.0.center" timestamp="1579441314110">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
     <state width="1638" height="179" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1579386893466" />
-    <state width="1062" height="152" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1579434032445" />
+    <state width="1297" height="152" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1579441314110" />
     <state width="1377" height="152" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1579406318388" />
     <state width="1183" height="180" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1579383821199" />
     <state width="885" height="251" key="GridCell.Tab.0.center/0.23.1680.961@0.23.1680.961" timestamp="1579219111866" />
-    <state width="1062" height="152" key="GridCell.Tab.0.left" timestamp="1579434032445">
+    <state width="1297" height="152" key="GridCell.Tab.0.left" timestamp="1579441314109">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
     <state width="1638" height="179" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1579386893465" />
-    <state width="1062" height="152" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1579434032445" />
+    <state width="1297" height="152" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1579441314109" />
     <state width="1377" height="152" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1579406318387" />
     <state width="1183" height="180" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1579383821198" />
     <state width="885" height="251" key="GridCell.Tab.0.left/0.23.1680.961@0.23.1680.961" timestamp="1579219111865" />
-    <state width="1062" height="152" key="GridCell.Tab.0.right" timestamp="1579434032446">
+    <state width="1297" height="152" key="GridCell.Tab.0.right" timestamp="1579441314110">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
     <state width="1638" height="179" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1579386893469" />
-    <state width="1062" height="152" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1579434032446" />
+    <state width="1297" height="152" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1579441314110" />
     <state width="1377" height="152" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1579406318388" />
     <state width="1183" height="180" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1579383821200" />
     <state width="885" height="251" key="GridCell.Tab.0.right/0.23.1680.961@0.23.1680.961" timestamp="1579219111866" />

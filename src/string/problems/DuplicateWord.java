@@ -7,64 +7,33 @@ import java.util.HashMap;
 public class DuplicateWord {
 
     public static void main(String[] args) {
-        /*
-         * Write a java program to find the duplicate words and their number of occurrences in the string.
-         * Also Find the average length of the words.
-         */
 
-      /*  String st = "Java is a programming Language. Java is also an Island of Indonesia. Java is widely used language";
-        System.out.println(st);
+        String value = "Java is a programming Language. Java is also an Island of Indonesia. Java is widely used language";
 
-        String characters = "";
-        String duplicates = "";
-
-        for (int i = 0; i < st.length(); i++) {
-            String current = Character.toString(st.charAt(i));
-            if (!duplicates.contains(current)) {
-                duplicates += current + ",";
-            }
-
-            characters += current;
-            System.out.println(duplicates);
-        }
-    }
-}
-//not done, needs to modify to string//
-*/
-
-
-
-
-
-
-
-
-        String st = "Java is a programming Language. Java is also an Island of Indonesia. Java is widely used language";
-
-        st = st.toLowerCase();
+        value = value.toLowerCase();
         HashMap<String, Integer> counter = new HashMap<>();
-        for (String word : st.split(" ")) {
+        for (String word : value.split(" ")) {
 
-            int i = counter.getOrDefault(word, 0);
-            counter.put(word, i + 1);
+            int num = counter.getOrDefault(word, 0);
+            counter.put(word, num + 1);
         }
 
-        ArrayList<Integer> lengths = new ArrayList<>();
-        System.out.println("Duplicate words and occurrences:");
+        ArrayList<Integer> ar = new ArrayList<>();
+        System.out.println("Duplicates from :"+value);
         for (String key : counter.keySet()) {
 
-            lengths.add(key.length());
+            ar.add(key.length());
             if (counter.get(key) > 1)
                 System.out.println(key + " " + counter.get(key));
 
         }
         Integer sum = 0;
-        for (Integer length : lengths) {
+        for (Integer length : ar) {
             sum += length;
         }
-        int average = sum / lengths.size();
+        int average = sum / ar.size();
 
-        System.out.println("Average length of the words is: " + average);
+        System.out.println("length of average words in the sentence : " + average);
     }
 }
 
