@@ -63,7 +63,7 @@ public class Numbers {
 
 		//merge sort
 
-		algo.mergeSort(num);
+		//algo.mergeSort(num);
 		long mergeSort = algo.executionTime;
 		System.out.println("Total Execution Time of " + num.length + " numbers in Insertion Sort take: " + insertionSortExecutionTime + " milli sec");
 		connectToSqlDB.insertDataFromArrayToSqlTable(num, "selection_sort", "SortingNumbers");
@@ -95,14 +95,14 @@ public class Numbers {
 
 		//bucket sort
 
-		algo.bucketSort(num);
+		/*algo.bucketSort(num);
 		long bucketSort = algo.executionTime;
 		System.out.println("Total Execution Time of " + num.length + " numbers in Insertion Sort take: " + insertionSortExecutionTime + " milli sec");
 		connectToSqlDB.insertDataFromArrayToSqlTable(num, "selection_sort", "SortingNumbers");
 		List<String> numbers6 = connectToSqlDB.readDataBase("selection_sort", "SortingNumbers");
 		printValue(numbers);
 		int n6 = num.length;
-		randomize (num, n6);
+		randomize (num, n6);*/
 
 		//shell sort
 		algo.shellSort(num);

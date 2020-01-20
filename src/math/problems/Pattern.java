@@ -8,7 +8,8 @@ public class Pattern {
 		 *
 		 *
 		 */
-
-
+		for (int i = 90; i <= 100; i++) {
+			int n = 0;
+		}
 	}
 }
