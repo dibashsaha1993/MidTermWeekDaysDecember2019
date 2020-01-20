@@ -41,4 +41,3 @@ System.out.println(lowest);
 	}
 }
 
-//done except database part//

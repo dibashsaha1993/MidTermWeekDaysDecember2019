@@ -22,6 +22,8 @@ public class EmployeeInfo {
 	 */
 	static String companyName;
 	
+
+	
 	/*
 	 * You must implement the logic for below 2 methods and 
 	 * following 2 methods are prototype as well for other methods need to be design,
