@@ -35,15 +35,16 @@ public class Sort {
         final long startTime = System.currentTimeMillis();
         int [] list = array;
         //implement here
-        for(int j=0; j<array.length-1; j++){
-            int min = j;
-            for(int i=j+1; i<array.length; i++) {
-                if (array[i] < array[min])
-                    min = i;
+        for(int i=1; i<array.length; i++){
+                int key=array[i];
+                int j=i-1;
+                while(j>=0 && array[j]>key){
+                    array[j+1]=array[j];
+                    j--;
             }
 
-            int temp = array[min];
-            array[min] = array[j];
+            int temp = array[i];
+            array[i] = array[j];
             array[j] = temp;
         }
 

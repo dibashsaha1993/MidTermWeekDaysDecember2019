@@ -38,7 +38,7 @@ public class UseArrayList {
 			System.out.println(iterator.next());
 
 		ar.remove(Integer.valueOf(25));
-		System.out.println("Removed 25. Now the ArrayList content is:");
+		System.out.println("Removed . Now the ArrayList content is:");
 		for (Integer item : ar)
 			System.out.println(item);
 

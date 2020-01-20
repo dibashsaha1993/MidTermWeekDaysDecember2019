@@ -44,8 +44,8 @@ public class Numbers {
 
 		//By following above, Continue for rest of the Sorting Algorithm.....
 
-		connectToSqlDB.insertDataFromArrayToSqlTable(num, "selection_sort", "SortingNumbers");
-		List<String> numbers1 = connectToSqlDB.readDataBase("selection_sort", "SortingNumbers");
+		connectToSqlDB.insertDataFromArrayToSqlTable(num, "Insertion_sort", "SortingNumbers");
+		List<String> numbers1 = connectToSqlDB.readDataBase("Insertion_sort", "SortingNumbers");
 		printValue(numbers);
 		int n1 = num.length;
 		randomize (num, n1);
@@ -53,10 +53,10 @@ public class Numbers {
        //Bubble sort
 
 		algo.bubbleSort(num);
-		long bubbleSort = algo.executionTime;
-		System.out.println("Total Execution Time of " + num.length + " numbers in Insertion Sort take: " + insertionSortExecutionTime + " milli sec");
-		connectToSqlDB.insertDataFromArrayToSqlTable(num, "selection_sort", "SortingNumbers");
-		List<String> numbers2 = connectToSqlDB.readDataBase("selection_sort", "SortingNumbers");
+		long bubbleSortExecutionTime = algo.executionTime;
+		System.out.println("Total Execution Time of " + num.length + " numbers in Bubble Sort take: " + bubbleSortExecutionTime + " milli sec");
+		connectToSqlDB.insertDataFromArrayToSqlTable(num, "bubble_Sort", "SortingNumbers");
+		List<String> numbers2 = connectToSqlDB.readDataBase("bubble_Sort", "SortingNumbers");
 		printValue(numbers);
 		int n2 = num.length;
 		randomize (num, n2);
