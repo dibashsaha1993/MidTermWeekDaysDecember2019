@@ -62,7 +62,13 @@ public class EmployeeInfo implements Employee {
 	 */
 	public int calculateEmployeeBonus(int performance){
 		int total=0;
-		return total;
+		int salary = 0;
+		System.out.println("when better performance: 10% bonus");
+		total=salary*(10/100);
+			System.out.println("your bonus: "+total);
+		int newSalary=salary+total;
+		return newSalary;
+
 	}
 
 	/*

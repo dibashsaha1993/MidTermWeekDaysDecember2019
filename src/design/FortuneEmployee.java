@@ -27,8 +27,9 @@ public class FortuneEmployee {
 		System.out.println("Company Name: " + employeeInfo.getCompanyName());
 		System.out.println("Department: " + employeeInfo.getEmployeeDepartment());
 
-		double employeePension = employeeInfo.calculateEmployeePension();
-		System.out.println("Employee pension: " + employeePension);
+		employeeInfo.calculateEmployeeBonus(50000);
+
+		employeeInfo.calculateEmployeePension();
 
 
 	}
