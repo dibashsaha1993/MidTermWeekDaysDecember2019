@@ -3,9 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="b533036d-9a6c-47ac-a051-580b895fa47b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/Numbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/UnitTestSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/UnitTestSorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/EmployeeAbstract.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/design/EmployeeInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/EmployeeInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/problems/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/problems/Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/problems/UnitTestingMath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/problems/UnitTestingMath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/FortuneEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/FortuneEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/UnitTestingEmployeeInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/UnitTestingEmployeeInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/problems/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/problems/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/problems/UnitTestingStringProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/problems/UnitTestingStringProblem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,13 +62,13 @@
       <recent name="G:\SOFTWARE ENGINEERING\PROJECTS\IdeaProjects\PNT\MidTermWeekDaysDecember2019\lib" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MergeTwoArraysAndRemoveDuplicatesProgram">
-    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="math.problems.Factorial" />
+  <component name="RunManager" selected="Application.FortuneEmployee">
+    <configuration name="FortuneEmployee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design.FortuneEmployee" />
       <module name="MidTermWeekDaysDecember2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="math.problems.*" />
+          <option name="PATTERN" value="design.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="math.problems.Fibonacci" />
+    <configuration name="Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.Numbers" />
       <module name="MidTermWeekDaysDecember2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="math.problems.*" />
+          <option name="PATTERN" value="algorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LowestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="math.problems.LowestNumber" />
+    <configuration name="UnitTestSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.UnitTestSorting" />
       <module name="MidTermWeekDaysDecember2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="math.problems.*" />
+          <option name="PATTERN" value="algorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeTwoArraysAndRemoveDuplicatesProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="math.problems.MergeTwoArraysAndRemoveDuplicatesProgram" />
+    <configuration name="UnitTestingStringProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.problems.UnitTestingStringProblem" />
       <module name="MidTermWeekDaysDecember2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="math.problems.*" />
+          <option name="PATTERN" value="string.problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnitTestingMath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="math.problems.UnitTestingMath" />
+    <configuration name="UseMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.UseMap" />
       <module name="MidTermWeekDaysDecember2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="math.problems.*" />
+          <option name="PATTERN" value="datastructure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MergeTwoArraysAndRemoveDuplicatesProgram" />
-        <item itemvalue="Application.LowestNumber" />
-        <item itemvalue="Application.Fibonacci" />
-        <item itemvalue="Application.UnitTestingMath" />
-        <item itemvalue="Application.Factorial" />
+        <item itemvalue="Application.FortuneEmployee" />
+        <item itemvalue="Application.Numbers" />
+        <item itemvalue="Application.UnitTestSorting" />
+        <item itemvalue="Application.UseMap" />
+        <item itemvalue="Application.UnitTestingStringProblem" />
       </list>
     </recent_temporary>
   </component>
@@ -176,36 +182,36 @@
       <screen x="0" y="23" width="1680" height="956" />
     </state>
     <state x="311" y="269" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1680.956@0.23.1680.956" timestamp="1579462490522" />
-    <state width="1050" height="175" key="GridCell.Tab.0.bottom" timestamp="1579557438569">
-      <screen x="0" y="23" width="1680" height="956" />
+    <state width="1312" height="175" key="GridCell.Tab.0.bottom" timestamp="1579572773302">
+      <screen x="0" y="23" width="1680" height="958" />
     </state>
     <state width="1638" height="175" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1579483845976" />
-    <state width="1050" height="175" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1579557438569" />
-    <state width="1208" height="175" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1579480391206" />
+    <state width="1312" height="175" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1579562367721" />
+    <state width="1312" height="175" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1579572773302" />
     <state width="1183" height="180" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1579383821200" />
     <state width="885" height="251" key="GridCell.Tab.0.bottom/0.23.1680.961@0.23.1680.961" timestamp="1579219111867" />
-    <state width="1050" height="175" key="GridCell.Tab.0.center" timestamp="1579557438568">
-      <screen x="0" y="23" width="1680" height="956" />
+    <state width="1312" height="175" key="GridCell.Tab.0.center" timestamp="1579572773301">
+      <screen x="0" y="23" width="1680" height="958" />
     </state>
     <state width="1638" height="175" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1579483845975" />
-    <state width="1050" height="175" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1579557438568" />
-    <state width="1208" height="175" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1579480391206" />
+    <state width="1312" height="175" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1579562367720" />
+    <state width="1312" height="175" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1579572773301" />
     <state width="1183" height="180" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1579383821199" />
     <state width="885" height="251" key="GridCell.Tab.0.center/0.23.1680.961@0.23.1680.961" timestamp="1579219111866" />
-    <state width="1050" height="175" key="GridCell.Tab.0.left" timestamp="1579557438568">
-      <screen x="0" y="23" width="1680" height="956" />
+    <state width="1312" height="175" key="GridCell.Tab.0.left" timestamp="1579572773300">
+      <screen x="0" y="23" width="1680" height="958" />
     </state>
     <state width="1638" height="175" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1579483845974" />
-    <state width="1050" height="175" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1579557438568" />
-    <state width="1208" height="175" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1579480391205" />
+    <state width="1312" height="175" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1579562367719" />
+    <state width="1312" height="175" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1579572773300" />
     <state width="1183" height="180" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1579383821198" />
     <state width="885" height="251" key="GridCell.Tab.0.left/0.23.1680.961@0.23.1680.961" timestamp="1579219111865" />
-    <state width="1050" height="175" key="GridCell.Tab.0.right" timestamp="1579557438569">
-      <screen x="0" y="23" width="1680" height="956" />
+    <state width="1312" height="175" key="GridCell.Tab.0.right" timestamp="1579572773301">
+      <screen x="0" y="23" width="1680" height="958" />
     </state>
     <state width="1638" height="175" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1579483845975" />
-    <state width="1050" height="175" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1579557438569" />
-    <state width="1208" height="175" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1579480391206" />
+    <state width="1312" height="175" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1579562367720" />
+    <state width="1312" height="175" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1579572773301" />
     <state width="1183" height="180" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1579383821200" />
     <state width="885" height="251" key="GridCell.Tab.0.right/0.23.1680.961@0.23.1680.961" timestamp="1579219111866" />
     <state width="1593" height="308" key="GridCell.Tab.1.bottom" timestamp="1579257488782">
