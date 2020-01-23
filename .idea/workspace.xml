@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b533036d-9a6c-47ac-a051-580b895fa47b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/UnitTestSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/UnitTestSorting.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +54,7 @@
       <recent name="G:\SOFTWARE ENGINEERING\PROJECTS\IdeaProjects\PNT\MidTermWeekDaysDecember2019\lib" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FortuneEmployee">
+  <component name="RunManager" selected="TestNG.UnitTestSorting">
     <configuration name="FortuneEmployee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="design.FortuneEmployee" />
       <module name="MidTermWeekDaysDecember2019" />
@@ -81,8 +81,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnitTestSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.UnitTestSorting" />
+    <configuration name="UnitTestSorting" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="MidTermWeekDaysDecember2019" />
       <extension name="coverage">
         <pattern>
@@ -90,6 +89,11 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="algorithm" />
+      <option name="MAIN_CLASS_NAME" value="algorithm.UnitTestSorting" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -131,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.UnitTestSorting" />
         <item itemvalue="Application.FortuneEmployee" />
         <item itemvalue="TestNG.UnitTestingEmployeeInfo.testEmployeeName" />
         <item itemvalue="TestNG.UnitTestingEmployeeInfo" />
         <item itemvalue="Application.Numbers" />
-        <item itemvalue="Application.UnitTestSorting" />
       </list>
     </recent_temporary>
   </component>
