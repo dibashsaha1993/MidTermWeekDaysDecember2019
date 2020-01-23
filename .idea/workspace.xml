@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b533036d-9a6c-47ac-a051-580b895fa47b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/Sort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -235,17 +236,18 @@
     </state>
     <state x="61" y="60" key="SettingsEditor/0.23.1680.958@0.23.1680.958" timestamp="1579462529492" />
     <state x="322" y="73" key="SettingsEditor/0.23.1680.960@0.23.1680.960" timestamp="1579135153013" />
-    <state x="521" y="321" key="com.intellij.ide.util.TipDialog" timestamp="1579638225939">
+    <state x="521" y="321" key="com.intellij.ide.util.TipDialog" timestamp="1579797930814">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
     <state x="521" y="326" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1579575239291" />
     <state x="521" y="320" key="com.intellij.ide.util.TipDialog/0.23.1680.954@0.23.1680.954" timestamp="1579463316038" />
-    <state x="521" y="321" key="com.intellij.ide.util.TipDialog/0.23.1680.956@0.23.1680.956" timestamp="1579638225939" />
+    <state x="521" y="321" key="com.intellij.ide.util.TipDialog/0.23.1680.956@0.23.1680.956" timestamp="1579797930814" />
     <state x="521" y="321" key="com.intellij.ide.util.TipDialog/0.23.1680.958@0.23.1680.958" timestamp="1579587703575" />
     <state x="521" y="321" key="com.intellij.ide.util.TipDialog/0.23.1680.960@0.23.1680.960" timestamp="1579394945864" />
-    <state x="0" y="123" key="new project wizard" timestamp="1579390602762">
-      <screen x="0" y="23" width="1680" height="958" />
+    <state x="458" y="81" key="new project wizard" timestamp="1579655019261">
+      <screen x="0" y="23" width="1680" height="956" />
     </state>
+    <state x="458" y="81" key="new project wizard/0.23.1680.956@0.23.1680.956" timestamp="1579655019261" />
     <state x="0" y="123" key="new project wizard/0.23.1680.958@0.23.1680.958" timestamp="1579390602762" />
     <state x="172" y="104" key="refactoring.ChangeSignatureDialog" timestamp="1579152607005">
       <screen x="0" y="23" width="1680" height="956" />
